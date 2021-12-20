@@ -72,5 +72,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## gh-pages
 
-- This uses gh-pages to deploy the calculator to gh-pages
+- This uses gh-pages to deploy the calculator to gh-pages 
+- See for more details https://github.com/gitname/react-gh-pages
 - Make sure to create a source branch that deploys code to the gh-pages

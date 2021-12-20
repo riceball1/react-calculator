@@ -1,7 +1,7 @@
 {
   "name": "calculator",
-  "homepage": "http://danafng.com/calculator",
-  "version": "0.1.0",
+  "homepage": "http://riceball1.github.io/react-calculator",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
